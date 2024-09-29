@@ -1,0 +1,10 @@
+4-1 Writing Programs
+--------------------
+The example shown below is a program using BASIC in which the value of y is calculated with the formula y=2x2+9lx+125 by inputting the value of x.
+
+10 INPUT "x=",X
+20 Y=2*X^2+91*X+125
+30 PRINT "y=";Y
+40 GOTO 10
+50 END
+
